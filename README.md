@@ -5,7 +5,8 @@ A sophisticated, responsive, and cleanly architected global news aggregator buil
 # 🎥 App Demo
 ---
 
-🔗 **Video Demo**
+
+https://github.com/user-attachments/assets/a68b83c0-26fb-4c00-86f1-f48d529e5e2d
 
 
 # ✨ Key Features
