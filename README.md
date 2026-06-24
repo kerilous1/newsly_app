@@ -2,15 +2,13 @@
 
 A sophisticated, responsive, and cleanly architected global news aggregator built with Flutter. The app provides a seamless user experience for exploring live world updates, combining robust Clean Architecture with predictable Cubit state management.
 
-🎥 App Demo
+# 🎥 App Demo
 ---
 
 🔗 **Video Demo**
 
-*(Drag and drop your newsly_demo.mp4 file directly here in GitHub web editor)*
 
-
-✨ Key Features
+# ✨ Key Features
 ---
 
 * **Minimalist UI:** Clean, distraction-free Dark Theme built using precision Custom Containers over standard Cards for absolute layout control.
@@ -21,7 +19,7 @@ A sophisticated, responsive, and cleanly architected global news aggregator buil
 * **System-Native Sharing:** Deeply integrated with native mobile share sheets to broadcast article links across social apps.
 
 
-📁 Project Structure
+# 📁 Project Structure
 ---
 
 The project follows a strict feature-driven Clean Architecture to separate the logic layers from the presentation layer:
